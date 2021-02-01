@@ -1,0 +1,14 @@
+2018-12-10 17:24:00,183 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-10 17:24:00,183 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - epoch:0
+2018-12-10 17:24:12,631 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=57499: f1_micro=0.9167553638451628, f1_macro=0.7648956390940217, score12=0.8408255014695922
+2018-12-10 17:29:35,595 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=59999: f1_micro=0.9175731748345857, f1_macro=0.7619842308991308, score12=0.8397787028668582
+2018-12-10 17:35:34,548 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=62499: f1_micro=0.9176067800415334, f1_macro=0.762138177237913, score12=0.8398724786397231
+2018-12-10 17:40:49,554 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=64999: f1_micro=0.9167087329631499, f1_macro=0.7611146918693099, score12=0.83891171241623
+2018-12-10 17:46:19,645 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=67499: f1_micro=0.91638646043488, f1_macro=0.7624527391022751, score12=0.8394195997685776
+2018-12-10 17:51:34,333 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=69999: f1_micro=0.9167974002689377, f1_macro=0.7634458644882736, score12=0.8401216323786056
+2018-12-10 17:56:47,086 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=72499: f1_micro=0.9163493840985443, f1_macro=0.7631693870788174, score12=0.8397593855886809
+2018-12-10 18:01:59,134 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=74999: f1_micro=0.916867402386421, f1_macro=0.7655246791502127, score12=0.8411960407683168
+2018-12-10 18:04:42,687 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - epoch:1
+2018-12-10 18:07:02,778 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=77499: f1_micro=0.9163447001511843, f1_macro=0.7639595761679844, score12=0.8401521381595843
+2018-12-10 18:11:46,893 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=79999: f1_micro=0.9168580872878033, f1_macro=0.7655291275670887, score12=0.841193607427446
+2018-12-10 18:16:31,016 - ../../log/Attention_TextCNN_word2vecglove/train.log - INFO - END:Global_step=82499: f1_micro=0.9167553638451628, f1_macro=0.7640525236702609, score12=0.8404039437577118

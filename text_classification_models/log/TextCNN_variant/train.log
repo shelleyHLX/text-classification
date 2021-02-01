@@ -1,0 +1,4 @@
+2018-12-12 10:18:15,648 - ../../log/TextCNN_variant/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 10:18:15,649 - ../../log/TextCNN_variant/train.log - INFO - epoch:0
+2018-12-12 10:23:40,406 - ../../log/TextCNN_variant/train.log - INFO - END:Global_step=2499: f1_micro=0.9068736141906873, f1_macro=0.011201941099665325, score12=0.45903777764517634
+2018-12-12 10:29:05,544 - ../../log/TextCNN_variant/train.log - INFO - END:Global_step=4999: f1_micro=0.2678304239401496, f1_macro=0.006396634824522757, score12=0.13711352938233617

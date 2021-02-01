@@ -1,0 +1,1 @@
+{"n_negative_samples_batch": 8192, "dropout": 0.1, "batch_size": 256, "all_clip_norm_val": 10.0, "n_train_tokens": 14273184, "n_tokens_vocab": 383554, "bidirectional": true, "unroll_steps": 20, "lstm": {"projection_dim": 200, "use_skip_connections": true, "dim": 4096, "n_layers": 2, "proj_clip": 3, "cell_clip": 3}, "n_epochs": 3}

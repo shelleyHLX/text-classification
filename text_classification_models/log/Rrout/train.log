@@ -1,0 +1,5 @@
+2018-12-12 09:07:03,948 - ../../log/Rrout/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 09:07:03,948 - ../../log/Rrout/train.log - INFO - epoch:0
+2018-12-12 09:09:24,858 - ../../log/Rrout/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 09:09:24,859 - ../../log/Rrout/train.log - INFO - epoch:0
+2018-12-12 09:16:58,237 - ../../log/Rrout/train.log - INFO - END:Global_step=2499: f1_micro=0.6918567157178871, f1_macro=0.24792757601709034, score12=0.46989214586748873

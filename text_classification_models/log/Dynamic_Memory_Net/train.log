@@ -1,0 +1,28 @@
+2018-12-12 10:46:51,120 - ../../log/Dynamic_Memory_Net/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 10:46:51,121 - ../../log/Dynamic_Memory_Net/train.log - INFO - epoch:0
+2018-12-12 10:48:27,895 - ../../log/Dynamic_Memory_Net/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 10:48:27,895 - ../../log/Dynamic_Memory_Net/train.log - INFO - epoch:0
+2018-12-12 10:50:59,086 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=2499: f1_micro=0.3425480769230769, f1_macro=0.0058046471874116535, score12=0.17417636205524428
+2018-12-12 10:53:30,510 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=4999: f1_micro=0.6027829579687276, f1_macro=0.04908897124501464, score12=0.32593596460687113
+2018-12-12 11:05:49,647 - ../../log/Dynamic_Memory_Net/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 11:05:49,647 - ../../log/Dynamic_Memory_Net/train.log - INFO - epoch:0
+2018-12-12 11:19:04,421 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=2499: f1_micro=0.5948481606452144, f1_macro=0.12085454563286818, score12=0.35785135313904126
+2018-12-12 11:32:20,262 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=4999: f1_micro=0.610718492343934, f1_macro=0.16277484710266854, score12=0.3867466697233013
+2018-12-12 11:45:36,797 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=7499: f1_micro=0.6954079140205178, f1_macro=0.1837357054897462, score12=0.439571809755132
+2018-12-12 11:58:52,541 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=9999: f1_micro=0.6718716577540107, f1_macro=0.20662995087095676, score12=0.43925080431248376
+2018-12-12 12:12:07,531 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=12499: f1_micro=0.6988640323367482, f1_macro=0.22603267437437566, score12=0.46244835335556195
+2018-12-12 12:25:23,168 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=14999: f1_micro=0.7180167597765363, f1_macro=0.24467700476811097, score12=0.48134688227232364
+2018-12-12 12:38:38,937 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=17499: f1_micro=0.7206750468782555, f1_macro=0.2568379930271034, score12=0.48875651995267944
+2018-12-12 12:45:30,202 - ../../log/Dynamic_Memory_Net/train.log - INFO - epoch:1
+2018-12-12 13:34:26,680 - ../../log/Dynamic_Memory_Net/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 13:34:26,680 - ../../log/Dynamic_Memory_Net/train.log - INFO - epoch:0
+2018-12-12 13:34:47,439 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=17499: f1_micro=0.7206750468782555, f1_macro=0.2568379930271034, score12=0.48875651995267944
+2018-12-12 13:48:52,019 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=19999: f1_micro=0.7815555697577811, f1_macro=0.32152561148168185, score12=0.5515405906197315
+2018-12-12 14:15:27,551 - ../../log/Dynamic_Memory_Net/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 14:15:27,569 - ../../log/Dynamic_Memory_Net/train.log - INFO - epoch:0
+2018-12-12 14:15:48,566 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=19999: f1_micro=0.7815555697577811, f1_macro=0.32152561148168185, score12=0.5515405906197315
+2018-12-12 14:30:24,498 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=22499: f1_micro=0.8050342378899316, f1_macro=0.340956426573179, score12=0.5729953322315553
+2018-12-12 14:45:26,103 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=24999: f1_micro=0.8120536273649919, f1_macro=0.35644548330598746, score12=0.5842495553354896
+2018-12-12 14:59:55,514 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=27499: f1_micro=0.8198996344712224, f1_macro=0.38916708875382444, score12=0.6045333616125235
+2018-12-12 15:14:25,548 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=29999: f1_micro=0.830135965729186, f1_macro=0.3966895100943798, score12=0.6134127379117829
+2018-12-12 15:28:57,617 - ../../log/Dynamic_Memory_Net/train.log - INFO - END:Global_step=32499: f1_micro=0.8315230807208097, f1_macro=0.4053150574039, score12=0.6184190690623549

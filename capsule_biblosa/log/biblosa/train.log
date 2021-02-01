@@ -1,0 +1,40 @@
+2018-12-27 10:48:35,153 - ../../log/biblosa/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-27 10:48:35,154 - ../../log/biblosa/train.log - INFO - epoch:0
+2018-12-27 10:49:04,582 - ../../log/biblosa/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-27 10:49:04,582 - ../../log/biblosa/train.log - INFO - epoch:0
+2018-12-27 10:50:48,666 - ../../log/biblosa/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-27 10:50:48,666 - ../../log/biblosa/train.log - INFO - epoch:0
+2018-12-27 10:54:37,416 - ../../log/biblosa/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-27 10:54:37,416 - ../../log/biblosa/train.log - INFO - epoch:0
+2018-12-27 10:55:34,337 - ../../log/biblosa/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-27 10:55:34,337 - ../../log/biblosa/train.log - INFO - epoch:0
+2018-12-27 11:19:13,056 - ../../log/biblosa/train.log - INFO - END:Global_step=2499: f1_micro=0.5894538606403014, f1_macro=0.0627045191393209, score12=0.3260791898898111
+2018-12-27 11:39:37,210 - ../../log/biblosa/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-27 11:39:37,210 - ../../log/biblosa/train.log - INFO - epoch:0
+2018-12-27 11:45:49,095 - ../../log/biblosa/train.log - INFO - END:Global_step=499: f1_micro=0.5364732912119472, f1_macro=0.01655962653283876, score12=0.27651645887239296
+2018-12-27 11:51:58,429 - ../../log/biblosa/train.log - INFO - END:Global_step=999: f1_micro=0.4862481315396114, f1_macro=0.02119415030818208, score12=0.25372114092389675
+2018-12-27 11:58:02,164 - ../../log/biblosa/train.log - INFO - END:Global_step=1499: f1_micro=0.49919464750340725, f1_macro=0.032917882321480414, score12=0.26605626491244383
+2018-12-27 12:04:06,350 - ../../log/biblosa/train.log - INFO - END:Global_step=1999: f1_micro=0.5622837370242214, f1_macro=0.05489335566343859, score12=0.30858854634383
+2018-12-27 12:10:11,814 - ../../log/biblosa/train.log - INFO - END:Global_step=2499: f1_micro=0.5934054503848554, f1_macro=0.07024475366468733, score12=0.33182510202477133
+2018-12-27 12:16:17,505 - ../../log/biblosa/train.log - INFO - END:Global_step=2999: f1_micro=0.6134839717093782, f1_macro=0.09406426717652086, score12=0.3537741194429495
+2018-12-27 12:22:23,838 - ../../log/biblosa/train.log - INFO - END:Global_step=3499: f1_micro=0.6676867686768677, f1_macro=0.11655306686680841, score12=0.3921199177718381
+2018-12-27 12:28:29,670 - ../../log/biblosa/train.log - INFO - END:Global_step=3999: f1_micro=0.6681929958449928, f1_macro=0.12792806732433168, score12=0.39806053158466226
+2018-12-27 12:34:36,191 - ../../log/biblosa/train.log - INFO - END:Global_step=4499: f1_micro=0.6689969366114209, f1_macro=0.1429880380489375, score12=0.40599248733017923
+2018-12-27 12:40:42,141 - ../../log/biblosa/train.log - INFO - END:Global_step=4999: f1_micro=0.6904429589363109, f1_macro=0.1668254409654052, score12=0.42863419995085805
+2018-12-27 12:46:48,366 - ../../log/biblosa/train.log - INFO - END:Global_step=5499: f1_micro=0.68721251149954, f1_macro=0.19084263377209948, score12=0.4390275726358197
+2018-12-27 12:52:54,626 - ../../log/biblosa/train.log - INFO - END:Global_step=5999: f1_micro=0.7056603773584905, f1_macro=0.18381546395775544, score12=0.444737920658123
+2018-12-27 12:59:01,115 - ../../log/biblosa/train.log - INFO - END:Global_step=6499: f1_micro=0.7171595252464293, f1_macro=0.19857993806036525, score12=0.4578697316533973
+2018-12-27 13:05:06,186 - ../../log/biblosa/train.log - INFO - END:Global_step=6999: f1_micro=0.7031003346593421, f1_macro=0.2074974821514599, score12=0.455298908405401
+2018-12-27 13:11:10,069 - ../../log/biblosa/train.log - INFO - END:Global_step=7499: f1_micro=0.7135155233314743, f1_macro=0.22112984828178323, score12=0.4673226858066287
+2018-12-27 13:17:15,418 - ../../log/biblosa/train.log - INFO - END:Global_step=7999: f1_micro=0.7318027654578659, f1_macro=0.21376444318013596, score12=0.47278360431900096
+2018-12-27 13:23:21,458 - ../../log/biblosa/train.log - INFO - END:Global_step=8499: f1_micro=0.707032241685707, f1_macro=0.2090996659651523, score12=0.45806595382542964
+2018-12-27 13:29:26,817 - ../../log/biblosa/train.log - INFO - END:Global_step=8999: f1_micro=0.7293434569004019, f1_macro=0.22242861611961512, score12=0.4758860365100085
+2018-12-27 13:35:32,442 - ../../log/biblosa/train.log - INFO - END:Global_step=9499: f1_micro=0.740990990990991, f1_macro=0.23684035914089746, score12=0.48891567506594424
+2018-12-27 13:41:37,327 - ../../log/biblosa/train.log - INFO - END:Global_step=9999: f1_micro=0.7434624928421455, f1_macro=0.2380278644191189, score12=0.4907451786306322
+2018-12-27 13:47:43,074 - ../../log/biblosa/train.log - INFO - END:Global_step=10499: f1_micro=0.7409701355246213, f1_macro=0.2426496856047266, score12=0.49180991056467394
+2018-12-27 13:53:48,021 - ../../log/biblosa/train.log - INFO - END:Global_step=10999: f1_micro=0.761758298090478, f1_macro=0.2462605529804396, score12=0.5040094255354588
+2018-12-27 13:59:54,830 - ../../log/biblosa/train.log - INFO - END:Global_step=11499: f1_micro=0.7574454828660436, f1_macro=0.2519732617723295, score12=0.5047093723191866
+2018-12-27 14:06:01,418 - ../../log/biblosa/train.log - INFO - END:Global_step=11999: f1_micro=0.767706097714935, f1_macro=0.2545300877061072, score12=0.5111180927105211
+2018-12-27 14:12:06,652 - ../../log/biblosa/train.log - INFO - END:Global_step=12499: f1_micro=0.7530293566520925, f1_macro=0.24956562661368417, score12=0.5012974916328883
+2018-12-27 14:18:15,077 - ../../log/biblosa/train.log - INFO - END:Global_step=12999: f1_micro=0.7558852378616969, f1_macro=0.2574300424121135, score12=0.5066576401369052
+2018-12-27 14:24:19,456 - ../../log/biblosa/train.log - INFO - END:Global_step=13499: f1_micro=0.7592693072888407, f1_macro=0.2705156172895306, score12=0.5148924622891856

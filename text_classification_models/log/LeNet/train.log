@@ -1,0 +1,8 @@
+2018-12-12 10:16:55,594 - ../../log/LeNet/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 10:16:55,594 - ../../log/LeNet/train.log - INFO - epoch:0
+2018-12-12 10:29:45,385 - ../../log/LeNet/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 10:29:45,385 - ../../log/LeNet/train.log - INFO - epoch:0
+2018-12-12 10:31:13,741 - ../../log/LeNet/train.log - INFO - max_epoch=1, max_max_epoch=1000
+2018-12-12 10:31:13,741 - ../../log/LeNet/train.log - INFO - epoch:0
+2018-12-12 10:35:23,340 - ../../log/LeNet/train.log - INFO - END:Global_step=2499: f1_micro=0.39321172939274995, f1_macro=0.014825422383849903, score12=0.20401857588829994
+2018-12-12 10:39:33,003 - ../../log/LeNet/train.log - INFO - END:Global_step=4999: f1_micro=0.2323490344334321, f1_macro=0.03400126202393493, score12=0.1331751482286835
